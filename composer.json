@@ -1,0 +1,12 @@
+{
+    "name": "addshore/jsonstorage-net",
+    "description": "Tidy package using Guzzle for interacting with jsonstorage.net",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Addshore\\JsonStorageNet\\": "src/"
+        }
+    }
+}
